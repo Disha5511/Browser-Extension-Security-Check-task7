@@ -1,4 +1,10 @@
-**Task 7: Browser Extension Security Check** — Reviewed Chrome extensions; found no suspicious items; reinforced safe browsing habits.
+# Task 7: Identify and Remove Suspicious Browser Extensions
+
+**Task 7: Browser Extension Security Check** — Reviewed Chrome extensions, found no threats, and reinforced safe browsing practices. 🔒
+
+##  Objective
+...
+
 
 ## 🎯 Objective
 Learn to spot and remove potentially harmful browser extensions.
